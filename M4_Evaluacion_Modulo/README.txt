@@ -141,4 +141,3 @@ Manejo de archivos en Python
 Diseño de interfaces de usuario en consola
 Gestión de errores y excepciones
 Persistencia de datos simple pero efectiva
-Persistencia de datos simple pero efectiva
