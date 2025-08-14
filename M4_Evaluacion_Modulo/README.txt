@@ -1,11 +1,11 @@
-# Uso del sistema
+Uso del sistema
 
-### Agregar libros
+Agregar libros
 
 Opción 1: Agregar libro físico (título, autor, año)
 Opción 2: Agregar libro digital (título, autor, año, formato)
 
-### Gestionar préstamos
+Gestionar préstamos
 
 Opción 7: Marcar un libro como prestado
 Opción 8: Devolver un libro prestado
@@ -95,7 +95,7 @@ Diagrama de clases
            │
       [1..*] Libro
 
-##Ejemplos de uso##
+Ejemplos de uso
 
 Agregar un libro digital:
 Opción: 2
@@ -144,4 +144,5 @@ Manejo de archivos en Python
 Diseño de interfaces de usuario en consola
 Gestión de errores y excepciones
 Persistencia de datos simple pero efectiva
+
 
